@@ -1,0 +1,6 @@
+1. A directory is where folders. subfolders and files are stored, nesting inside each other so they can all be accessed from the root folder.
+
+2. VCS can be used to look at old versions of a project (like an autosave does, only it's manual), so that if you have a mistake and don't know where you went wrong, you can look
+back at old versions to see if you can find the problem. It is also helpful for sharing with others so they can see your progress.
+
+3. I really enjoy working with video editors because there are so many options to work with: cropping, text, movement on the screen, and sound, to name just a few.

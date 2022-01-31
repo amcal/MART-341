@@ -1,1 +1,1 @@
-# MART-341
+# MART-341 Repository for Web Design homework.
